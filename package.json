@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "async": "^1.5.0",
-    "bagpipes": "^0.1.0",
+    "bagpipes": "plaa/bagpipes#b2eb059ba6f87c9185a83646fe5bac48288ccea4",
     "body-parser": "^1.14.1",
     "config": "^1.16.0",
     "cors": "^2.5.3",
